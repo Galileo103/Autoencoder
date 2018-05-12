@@ -5,27 +5,27 @@
 <p style="clear:left;"></p>
      
 ## Our Nural Network Project :
-<pre>
+<p>
                                   Autoencoder which is an artificial neural network used for unsupervised learning of
                                   efficient codings. The aim of an autoencoder is to learn a representation (encoding) 
                                   for a set of data, typically for the purpose of dimensionality reduction.
-</pre>
+</p>
 
 ## Unsupervised Learning :
-<pre>
+<p>
                                   Unsupervised machine learning is the machine learning task 
                                   of inferring a function to describe hidden structure from 
                                   "unlabeled" data (a classification or categorization is not 
                                   included in the observations).
 
-</pre>
+</p>
 
 ## Architecture :
-<pre>
+<p>
                                   The nural network is built of 4 layers and an input layer (3 hidden layers) 
                                   of sizes 784, 392, 196, 392 and 784 respectively.
 
-</pre>
+</p>
 
 ### This project's Dataset is in <a href="https://github.com/Galileo103/Autoencoder/tree/master/MNIST_data" style="text-decoration:none"> MNIST_data </a> folder
 
