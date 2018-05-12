@@ -28,11 +28,11 @@
 </p>
 
 ## Libary Used :
-<p>
+<pre>
                                   - tensorflow as tf
                                   - matplotlib.pyplot as plt
                                   - import numpy as np
-</p>
+</pre>
 
 ### This project's Dataset is in <a href="https://github.com/Galileo103/Autoencoder/tree/master/MNIST_data" style="text-decoration:none"> MNIST_data </a> folder
 
