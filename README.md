@@ -4,7 +4,7 @@
      style="float: left; padding-right:10px;padding-bottom:10px; margin-right: 10px;" />
 <p style="clear:left;"></p>
      
-## Our Nural Network Project :
+## Our Neural Network Project :
 <p>
                                   Autoencoder which is an artificial neural network used for unsupervised learning of
                                   efficient codings. The aim of an autoencoder is to learn a representation (encoding) 
