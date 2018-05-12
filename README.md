@@ -41,7 +41,7 @@
 #### You can see the encoder in the second image (2) that converted into (3), the seventh image (4) that converted into (7) and the ninth image (5) that converted into (9)
 <br>
 <center>
-<img src="https://raw.githubusercontent.com/Galileo103/Autoencoder/master/Snapshot/Snapshot%201.PNG"
+<img src=""
      alt="Markdown Snapshot 1"
      style="float: left; padding-right:10px;padding-bottom:10px; margin-right: 10px;" />
 <p style="clear:left;"></p>
