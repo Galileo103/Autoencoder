@@ -38,7 +38,7 @@
 
 ### There are some snapshots for the output of the program with defferent settings in <a href="https://github.com/Galileo103/Autoencoder/tree/master/Snapshot" style="text-decoration:none"> Snapshots </a>
 ### This is the Snapshot 1
-#### You can see the encoder in the second image (2) that converted into (3), the seventh image (4) that converted into (7) and the ninth image (5)  that converted into (9)
+#### You can see the encoder in the second image (2) that converted into (3), the seventh image (4) that converted into (7) and the ninth image (5) that converted into (9)
 <br>
 <center>
 <img src="https://raw.githubusercontent.com/Galileo103/Autoencoder/master/Snapshot/Snapshot%201.PNG"
